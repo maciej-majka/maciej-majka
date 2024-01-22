@@ -1,4 +1,8 @@
-### Hi there 👋
+Welcome to my GitHub page. 
+#Table of contents
+##Projects in C/C++
+##Projects in Python
+
 
 <!--
 **maciej-majka/maciej-majka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
