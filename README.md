@@ -4,6 +4,7 @@
 
 ## Projects in C/C++
 * [Simulation engine for polymers driven by SCN](https://github.com/maciej-majka/simulation_SCN)
+* [Simple prototype of 3d game](https://github.com/maciej-majka/3d_game)
 
 
 <!--
