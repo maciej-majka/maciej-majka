@@ -1,7 +1,9 @@
-Welcome to my GitHub page. 
-#Table of contents
-##Projects in C/C++
+# Welcome to my GitHub page 
+
 ##Projects in Python
+
+## Projects in C/C++
+* [Simulation engine for polymers driven by SCN](simulation_SCN)
 
 
 <!--
