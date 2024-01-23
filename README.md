@@ -3,7 +3,7 @@
 ##Projects in Python
 
 ## Projects in C/C++
-* [Simulation engine for polymers driven by SCN](simulation_SCN)
+* [Simulation engine for polymers driven by SCN](../simulation_SCN)
 
 
 <!--
