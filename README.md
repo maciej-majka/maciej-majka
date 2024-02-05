@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 
 
-## Projects in Python
+## Projects in Python/Jupyter
 * [Excersises in Machine Learning and Neural Networks](https://github.com/maciej-majka/machine_learning_course)
 
 ## Projects in Wolfram Mathematica
