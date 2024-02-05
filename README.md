@@ -1,6 +1,9 @@
 # Welcome to my GitHub page 
 
-##Projects in Python
+## Projects in Python
+* Excersises in Machine Learning and Neural Networks
+
+## Projects in Wolfram Mathematica
 
 ## Projects in C/C++
 * [Simulation engine for polymers driven by SCN](https://github.com/maciej-majka/simulation_SCN)
