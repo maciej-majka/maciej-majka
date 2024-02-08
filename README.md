@@ -5,7 +5,7 @@
 
 ## Projects in Wolfram Mathematica
 
-*[Plots for the project on Gene Expression Patterns dynamics](https://github.com/maciej-majka/mathematica_GEPs)
+* [Plots for the project on Gene Expression Patterns dynamics](https://github.com/maciej-majka/mathematica_GEPs)
 
 ## Projects in C/C++
 * [Simulation engine for polymers driven by SCN](https://github.com/maciej-majka/simulation_SCN)
